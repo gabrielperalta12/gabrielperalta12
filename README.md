@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hola, mi nombre es Gabriel Peralta, me conocen como Gabo, soy de Peru.
 <!--
 **gabrielperalta12/gabrielperalta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
